@@ -1,0 +1,14 @@
+layout_spectrum: 0.18886350141838193
+typography_spectrum: 0.20522827305831015
+color:
+  brandStrength: 0.08660851302556694
+  lightness: 0.3395704636350274
+  saturation: 0.45454773399978876
+  rhythmicContrast: 0.52295733243227
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: B.Klassen's Portfolio
